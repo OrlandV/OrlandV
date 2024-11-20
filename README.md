@@ -1,6 +1,6 @@
 # Приветствую вас! 👋 Я Орлов Андрей.
 
-## Я являюсь дипломированным ![1887_python](https://github.com/user-attachments/assets/35618abd-6e46-4028-a1a4-f08cb1d689bf) Python-разработчиком (![2300374_12196046_t](https://github.com/user-attachments/assets/c31e9142-19de-4e76-aaec-9858d3ebdd77) Urban University, 2024).
+## Я являюсь дипломированным <img alt="1887_python" scr="https://github.com/user-attachments/assets/35618abd-6e46-4028-a1a4-f08cb1d689bf" width="10" height="10"> Python-разработчиком (img alt="2300374_12196046_t" scr="https://github.com/user-attachments/assets/c31e9142-19de-4e76-aaec-9858d3ebdd77" width="10" height="10"> Urban University, 2024).
 
 ## 📜 Обо мне
 
