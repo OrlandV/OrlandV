@@ -1,6 +1,4 @@
-<div align="center">
-# Приветствую вас! 👋 Я Орлов Андрей.
-</div>
+<h1 align="center">Приветствую вас! 👋 Я Орлов Андрей.</h1>
 
 ## Я являюсь дипломированным <img alt="1887_python" src="https://github.com/user-attachments/assets/35618abd-6e46-4028-a1a4-f08cb1d689bf" width="15" height="15"> Python-разработчиком (<img alt="2300374_12196046_t" src="https://github.com/user-attachments/assets/c31e9142-19de-4e76-aaec-9858d3ebdd77" width="15" height="15"> Urban University, 2024).
 
