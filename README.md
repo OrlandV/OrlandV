@@ -6,7 +6,7 @@
 
 В разработке я нацелен на результат, отвечающий требованиям технического задания. Предлагаю дополнительный функционал и/или альтернативный вариант, когда вижу его целесообразность.
 
-Имею опыт разработки на языках ![Static Badge](https://img.shields.io/badge/PHP-7.4.15-%23777BB4), ![Static Badge](https://img.shields.io/badge/Delphi-7-%23E62431) и VB, а также опыт разработки баз данных в ![Static Badge](https://img.shields.io/badge/MySQL-8.0.33-%234479A1) и MS Access.
+Имею опыт разработки на языках ![Static Badge](https://img.shields.io/badge/PHP-7-%23777BB4), ![Static Badge](https://img.shields.io/badge/Delphi-7-%23E62431) и VB, а также опыт разработки баз данных в ![Static Badge](https://img.shields.io/badge/MySQL-8-%234479A1) и MS Access.
 
 Мои цели как Python-разработчика:
 * автоматизация задач (как своих, так и заказчика) (от хобби до производства),
