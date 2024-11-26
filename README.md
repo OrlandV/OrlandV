@@ -33,7 +33,16 @@
 
 <h3><a href="https://github.com/OrlandV/diplomMusic">🎧 Веб-приложение для работы с ранее разработанной в MySQL базой данных «Музыка»<br>(🎓 дипломный проект)</a></h3>
 
-![Static Badge](https://img.shields.io/badge/MySQL-8.0.33-%234479A1) ![Static Badge](https://img.shields.io/badge/PHP-7.4.15-%23777BB4) ![Static Badge](https://img.shields.io/badge/HTML-5-%23E34F26) ![Static Badge](https://img.shields.io/badge/CSS-3-%231572B6) ![Static Badge](https://img.shields.io/badge/JavaScript-_-%23F7DF1E) ![Static Badge](https://img.shields.io/badge/SQL-_-%23000000) ![Static Badge](https://img.shields.io/badge/Python-3.12-%233776AB) ![Static Badge](https://img.shields.io/badge/Django-5.1.2-%23092E20) ![Static Badge](https://img.shields.io/badge/mysqlclient-2.2.5-blue)
+![Static Badge](https://img.shields.io/badge/MySQL-8.0.33-%234479A1)
+![Static Badge](https://img.shields.io/badge/PHP-7.4.15-%23777BB4)
+![Static Badge](https://img.shields.io/badge/HTML-5-%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS-3-%231572B6)
+![Static Badge](https://img.shields.io/badge/JavaScript-_-%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/SQL-_-black)
+![Static Badge](https://img.shields.io/badge/Python-3.12-%233776AB)
+![Static Badge](https://img.shields.io/badge/Django-5.1.2-%23092E20)
+![Static Badge](https://img.shields.io/badge/mysqlclient-2.2.5-blue)
+
 * Разработка базы данных в MySQL и создание веб-приложения на PHP (до возникновения желания изучить Python).
 * Использование фреймворка Django для веб-разработки в Python.
 * Обход требований Django к именованию таблиц в базе данных (она уже создана и функционирует в другом приложении) и рабработка своих реализаций конструктора форм и классов сущностей базы данных.
@@ -43,15 +52,23 @@
 * Использование COOKIE для возврата в предыдущий раздел приложения с сохранением настроек сортировки и текущей страницы пагинатора.
 * Реализация защиты данных от случайного удаления, и запрета удаления данных, от которых зависят другие данные.
 
-### 🎥 Автоматическое наполнение базы данных информацией о фильмах
-![Static Badge](https://img.shields.io/badge/Python-3.12-%233776AB) ![Static Badge](https://img.shields.io/badge/requests-2.32.3-blue) ![Static Badge](https://img.shields.io/badge/Pillow-10.4.0-blue)
+<h3><a href="https://github.com/OrlandV/auto_put_anime_manga">🎥 Автоматическое наполнение базы данных информацией о фильмах</a></h3>
+
+![Static Badge](https://img.shields.io/badge/Python-3.12-%233776AB)
+![Static Badge](https://img.shields.io/badge/requests-2.32.3-black)
+![Static Badge](https://img.shields.io/badge/Pillow-10.4.0-black)
+
 * Автоматический поиск информации о фильмах на веб-ресурсах (requests).
 * Автоматическое добавление найденной информации в базу данных через веб-интерфейс другого приложения.
 * Использование Pillow (PIL) для изменения и сохранения постера к фильму.
 
 <h3><a href="https://github.com/OrlandV/music_m3u8">💽 Объединение плейлистов и хронологическая сортировка музыкальных альбомов</a></h3>
 
-![Static Badge](https://img.shields.io/badge/Python-3.12-%233776AB) ![Static Badge](https://img.shields.io/badge/tkinter-_-%23000000) ![Static Badge](https://img.shields.io/badge/re-_-%23000000) ![Static Badge](https://img.shields.io/badge/Auto_Py_to_Exe-2.44.1-blue)
+![Static Badge](https://img.shields.io/badge/Python-3.12-%233776AB)
+![Static Badge](https://img.shields.io/badge/tkinter-_-black)
+![Static Badge](https://img.shields.io/badge/re-_-black)
+![Static Badge](https://img.shields.io/badge/Auto_Py_to_Exe-2.44.1-black)
+
 * Сканирование папок и поиск текстовых файлов с форматированными списками альбомов.
 * На основании списков поиск отмеченных альбомов в плейлистах и объединение их в один плейлист с хронологической сортировкой.
 * Создание графического пользовательского интерфейса (tkinter).
@@ -59,7 +76,12 @@
 
 <h3><a href="https://github.com/OrlandV/PriceMachine">📊 Анализатор прайс-листов</a></h3>
 
-![Static Badge](https://img.shields.io/badge/Python-3.12-%233776AB) ![Static Badge](https://img.shields.io/badge/CSV-_-%23000000) ![Static Badge](https://img.shields.io/badge/JSON-_-%23000000) ![Static Badge](https://img.shields.io/badge/tkinter-_-%23000000) ![Static Badge](https://img.shields.io/badge/HTML-5-%23E34F26)
+![Static Badge](https://img.shields.io/badge/Python-3.12-%233776AB)
+![Static Badge](https://img.shields.io/badge/CSV-_-black)
+![Static Badge](https://img.shields.io/badge/JSON-_-black)
+![Static Badge](https://img.shields.io/badge/tkinter-_-black)
+![Static Badge](https://img.shields.io/badge/HTML-5-%23E34F26)
+
 * Сканирование файлов в папке, поиск и извлечение из прайсов требуемых данных, объединение и сортировка.
 * Поиск позиций по фрагменту наименования товара.
 * Экспорт данных в HTML, CSV, JSON.
