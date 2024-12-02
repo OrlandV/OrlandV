@@ -79,6 +79,7 @@
 ![Static Badge](https://img.shields.io/badge/Python-3.12-%233776AB)
 ![Static Badge](https://img.shields.io/badge/python_dateutil-2.9.0-black)
 ![Static Badge](https://img.shields.io/badge/pytest-8.3.3-black)
+![Static Badge](https://img.shields.io/badge/argparse-_-black)
 ![Static Badge](https://img.shields.io/badge/JSON-_-black)
 ![Static Badge](https://img.shields.io/badge/CSV-_-black)
 
