@@ -57,6 +57,9 @@
 ![Static Badge](https://img.shields.io/badge/Python-3.12-%233776AB)
 ![Static Badge](https://img.shields.io/badge/requests-2.32.3-black)
 ![Static Badge](https://img.shields.io/badge/Pillow-10.4.0-black)
+![Static Badge](https://img.shields.io/badge/Pillow-11.0.0-black)
+![Static Badge](https://img.shields.io/badge/python_dateutil-2.9.0-black)
+![Static Badge](https://img.shields.io/badge/Wikipedia-1.4.0-black)
 
 * Автоматический поиск информации о фильмах на веб-ресурсах (requests).
 * Автоматическое добавление найденной информации в базу данных через веб-интерфейс другого приложения.
